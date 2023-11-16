@@ -32,6 +32,7 @@ class Rover:
                     GroundMineral.TITANIUM: ground.get_mineral_level(GroundMineral.TITANIUM),
                     GroundMineral.POTASSIUM: ground.get_mineral_level(GroundMineral.POTASSIUM),
                     GroundMineral.MAGNESIUM: ground.get_mineral_level(GroundMineral.MAGNESIUM),
+                    GroundMineral.CALCIUM: ground.get_mineral_level(GroundMineral.CALCIUM),
                     GroundMineral.SODIUM: ground.get_mineral_level(GroundMineral.SODIUM),
                     GroundMineral.UNKNOWN: ground.get_mineral_level(GroundMineral.UNKNOWN)}
         else:
